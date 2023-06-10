@@ -1,3 +1,3 @@
 # Bookings and Reservations
 
-The repository for Golang practice
+The repository for Golang practice.
